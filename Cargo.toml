@@ -1,6 +1,6 @@
 [package]
 name = "numberbench"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
 description = "Stupid number benchmark"
 repository = "https://github.com/polygons1/numberbench"
